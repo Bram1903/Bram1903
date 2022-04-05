@@ -2,6 +2,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bram1903)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bram1903)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bram1903&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/bram1903)  
