@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bram1903&show_icons=true&theme=dark&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bram1903&show_icons=true&theme=dark&count_private=true&hide=javascript)
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bram1903&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
