@@ -1,4 +1,7 @@
-![Metrics](https://metrics.lecoq.io/Bram1903?template=classic&isocalendar=1&languages=1&achievements=1&lines=1&stars=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FAmsterdam)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bram1903&show_icons=true&count_private=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bram1903)  
 
-- Discord: Bram#2698
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bram1903)  
+
+![Profile views](https://gpvc.arturio.dev/bram1903)  
